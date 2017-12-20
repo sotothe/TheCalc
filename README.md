@@ -1,7 +1,5 @@
 ## TheCalc
 
-TheCalc is just a class project.
-
 It is a simple calculator that supports parentheses and long claculations and long numbers.
 
 The code consists of two parts:
